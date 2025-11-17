@@ -6,7 +6,7 @@ import net.salesianos.hilos.Productor;
 
 public class ExperimentoUno {
     public static void main(String[] args) {
-        System.out.println("🔬 EXPERIMENTO 1: Un productor y un consumidor\n");
+        System.out.println(" EXPERIMENTO 1: Un productor y un consumidor\n");
         
         Almacen almacen = new Almacen(5);
         

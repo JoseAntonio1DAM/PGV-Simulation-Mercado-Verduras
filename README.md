@@ -32,7 +32,9 @@ El consumidor podría tener menos turnos de ejecución
 Comportamiento similar al Experimento 2 pero por diferente razón
 
 # Capturas de Ejecución
-(Incluir aquí capturas de pantalla de la consola)
+
+![Imágenes de consola](./resources/img4.PNG)
+![Imágen de consola final](./resources/img5.PNG)
 
 ## Análisis de Resultados
 Observaciones:

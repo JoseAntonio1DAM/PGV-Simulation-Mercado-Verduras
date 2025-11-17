@@ -23,6 +23,6 @@ public class ExperimentoUno {
             Thread.currentThread().interrupt();
         }
         
-        System.out.println("\n🏁 Experimento 1 completado");
+        System.out.println("\n Experimento 1 completado");
     }
 }
